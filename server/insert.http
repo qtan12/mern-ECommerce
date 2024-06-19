@@ -1,0 +1,8 @@
+###
+POST http://localhost:5000/api/insertdata/sanpham
+
+###
+POST http://localhost:5000/api/insertdata/danhmuc
+
+###
+POST http://localhost:5000/api/user/mock
